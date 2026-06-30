@@ -1,0 +1,53 @@
+order_id,customer_name,customer_email,product_name,category,quantity,unit_price,order_date,city,country,status,payment_method
+1001,Alice Johnson,alice@email.com,Wireless Mouse,Electronics,2,29.99,2024-01-05,Mumbai,India,completed,UPI
+1002,bob smith,bob.smith@gmail.com,USB-C Hub,Electronics,1,49.99,2024-01-07,Delhi,India,completed,Credit Card
+1003,Carol White,carol@yahoo.com,Notebook Set,Stationery,5,12.50,2024-01-08,Bangalore,India,pending,Debit Card
+1004,,david@outlook.com,Laptop Stand,Electronics,1,79.99,2024-01-10,Chennai,India,completed,UPI
+1005,Eva Martinez,eva.m@email.com,Desk Lamp,Furniture,2,34.99,2024/01/12,Hyderabad,India,completed,Net Banking
+1006,Frank Lee,franklee@gmail.com,Mechanical Keyboard,Electronics,1,119.99,2024-01-14,Pune,India,shipped,Credit Card
+1007,Grace Kim,grace@email.com,Monitor Stand,Furniture,1,55.00,2024-01-15,Mumbai,India,completed,UPI
+1008,Henry Brown,henry.b@email.com,Webcam HD,Electronics,2,89.99,2024-01-18,Delhi,India,completed,Debit Card
+1002,bob smith,bob.smith@gmail.com,USB-C Hub,Electronics,1,49.99,2024-01-07,Delhi,India,completed,Credit Card
+1009,Iris Patel,iris.p@gmail.com,Blue Light Glasses,Accessories,3,22.50,2024-01-20,Kolkata,India,completed,UPI
+1010,James Wilson,james.w@outlook.com,Standing Desk,Furniture,1,299.99,2024-01-22,Bangalore,India,completed,EMI
+1011,Karen Singh,karen.s@email.com,Noise Cancelling Headphones,Electronics,1,199.99,2024-01-25,Chennai,India,shipped,Credit Card
+1012,Leo Zhang,leo.z@gmail.com,Ergonomic Chair,Furniture,1,449.99,2024-01-28,Mumbai,India,completed,EMI
+1013,Maya Sharma,maya.s@email.com,Wireless Charger,Electronics,2,35.00,2024-02-01,Delhi,India,completed,UPI
+1014,Neel Gupta,neel.g@outlook.com,Smart Watch,Electronics,1,179.99,2024-02-03,Hyderabad,India,returned,Credit Card
+1015,Olivia Chen,olivia.c@email.com,Yoga Mat,Fitness,1,28.99,2024-02-05,Pune,India,completed,Debit Card
+1016,Peter Das,peter.d@gmail.com,Coffee Maker,Kitchen,1,89.99,2024-02-07,Kolkata,India,completed,Net Banking
+1017,Quinn Mehta,quinn.m@email.com,Laptop Bag,Accessories,2,45.00,2024-02-10,Bangalore,India,completed,UPI
+1018,Rita Joshi,rita.j@gmail.com,Desk Organizer,Stationery,3,18.50,2024-02-12,Chennai,India,pending,Debit Card
+1019,Sam Kapoor,sam.k@outlook.com,Ring Light,Electronics,1,65.00,2024-02-14,Mumbai,India,completed,Credit Card
+1020,Tara Reddy,tara.r@email.com,Office Chair,Furniture,1,,2024-02-16,Delhi,India,completed,EMI
+1021,Uma Pillai,uma.p@gmail.com,Portable SSD,Electronics,2,79.99,2024-02-18,Hyderabad,India,completed,UPI
+1022,Victor Nair,victor.n@email.com,Drawing Tablet,Electronics,1,149.99,2024-02-20,Pune,India,shipped,Credit Card
+1023,Wendy Shah,wendy.s@outlook.com,Kitchen Scale,Kitchen,1,24.99,2024-02-22,Kolkata,India,completed,Debit Card
+1024,Xander Roy,xander.r@gmail.com,Resistance Bands,Fitness,3,14.99,2024-02-25,Bangalore,India,completed,UPI
+1025,Yara Iyer,yara.i@email.com,Bluetooth Speaker,Electronics,1,59.99,2024-02-27,Chennai,India,completed,Net Banking
+1026,Zoe Thomas,zoe.t@gmail.com,Photo Frame Set,Decor,2,19.99,2024-03-01,Mumbai,India,completed,UPI
+1027,Arjun Verma,arjun.v@outlook.com,Smart Bulb Set,Electronics,3,39.99,2024-03-03,Delhi,India,completed,Credit Card
+1028,Bhavna Tiwari,bhavna.t@email.com,Fitness Tracker,Fitness,1,89.99,2024-03-06,Hyderabad,India,completed,EMI
+1029,Chirag Bose,chirag.b@gmail.com,Plant Pot Set,Decor,4,12.99,2024-03-08,Pune,India,pending,Debit Card
+1030,Deepa Rao,deepa.r@email.com,Air Purifier,Kitchen,1,199.99,2024-03-10,Kolkata,India,completed,Net Banking
+1031,Eshan Malhotra,eshan.m@outlook.com,Gaming Mouse,Electronics,1,69.99,2024-03-12,Bangalore,India,completed,Credit Card
+1032,Fatima Sheikh,fatima.s@gmail.com,Insulated Bottle,Fitness,2,24.99,2024-03-14,Chennai,India,completed,UPI
+1033,Gaurav Pandey,gaurav.p@email.com,Wireless Keyboard,Electronics,1,55.00,2024-03-16,Mumbai,India,shipped,Debit Card
+1034,Hina Chauhan,hina.c@gmail.com,Scented Candle Set,Decor,3,22.00,2024-03-18,Delhi,India,completed,Net Banking
+1035,Ishaan Saxena,ishaan.s@outlook.com,Protein Shaker,Fitness,2,16.99,2024-03-20,Hyderabad,India,completed,UPI
+1036,Jaya Krishnan,jaya.k@email.com,Kindle Reader,Electronics,1,129.99,2024-03-22,Pune,India,completed,Credit Card
+1037,Kiran Shetty,kiran.s@gmail.com,Bamboo Cutting Board,Kitchen,1,29.99,2024-03-25,Kolkata,India,completed,Debit Card
+1038,Lata Dubey,lata.d@email.com,Tote Bag,Accessories,2,19.99,2024-03-27,Bangalore,India,completed,UPI
+1039,Mohan Patil,mohan.p@outlook.com,Desk Calendar,Stationery,1,9.99,2024-03-29,Chennai,India,completed,Net Banking
+1040,Neha Arora,neha.a@gmail.com,Smart Thermostat,Electronics,1,149.99,2024-03-31,Mumbai,India,returned,Credit Card
+1040,Neha Arora,neha.a@gmail.com,Smart Thermostat,Electronics,1,149.99,2024-03-31,Mumbai,India,returned,Credit Card
+1041,Om Chandra,om.c@email.com,Cable Management Kit,Electronics,1,15.99,2024-04-02,Delhi,India,completed,UPI
+1042,Priya Menon,priya.m@gmail.com,Cast Iron Pan,Kitchen,1,54.99,2024-04-04,Hyderabad,India,completed,Debit Card
+1043,Rahul Jain,rahul.j@outlook.com,Laptop Cooling Pad,Electronics,1,39.99,2024-04-07,Pune,India,completed,Credit Card
+1044,Sneha Batra,sneha.b@email.com,Wall Clock,Decor,1,34.99,2024-04-09,Kolkata,India,completed,Net Banking
+1045,Tarun Gill,tarun.g@gmail.com,Jump Rope,Fitness,2,12.99,2024-04-11,Bangalore,India,completed,UPI
+1046,Usha Naidu,usha.n@email.com,Pen Holder,Stationery,2,8.99,2024-04-13,Chennai,India,pending,Debit Card
+1047,Varun Sinha,varun.s@outlook.com,Power Bank,Electronics,1,49.99,2024-04-15,Mumbai,India,completed,Credit Card
+1048,Waqar Ali,waqar.a@gmail.com,Dumbbell Set,Fitness,1,89.99,2024-04-18,Delhi,India,completed,EMI
+1049,Xena Pillai,xena.p@email.com,Sticky Notes Pack,Stationery,5,6.99,2024-04-20,Hyderabad,India,completed,UPI
+1050,Yash Trivedi,yash.t@gmail.com,Mug Warmer,Kitchen,1,19.99,2024-04-22,Pune,India,completed,Debit Card

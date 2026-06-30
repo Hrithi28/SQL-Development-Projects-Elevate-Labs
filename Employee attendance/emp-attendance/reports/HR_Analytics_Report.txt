@@ -1,0 +1,199 @@
+========================================================================
+  EMPLOYEE MANAGEMENT & ATTENDANCE TRACKER
+  HR Analytics Report — Generated: 2026-06-29 15:27
+========================================================================
+
+========================================================================
+  1. DEPARTMENT HEADCOUNT & PAYROLL
+========================================================================
++--------------------+-----------+-----------+--------+------------+---------------+
+| Department         | Location  | Employees | Active | Avg Salary | Total Payroll |
++--------------------+-----------+-----------+--------+------------+---------------+
+| Engineering        | Chennai   | 13        | 13     | 973846.0   | 12660000.0    |
+| Sales              | Delhi     | 7         | 6      | 652857.0   | 4570000.0     |
+| Customer Support   | Pune      | 6         | 6      | 489167.0   | 2935000.0     |
+| Finance            | Mumbai    | 5         | 5      | 918000.0   | 4590000.0     |
+| Marketing          | Bangalore | 5         | 5      | 738000.0   | 3690000.0     |
+| Operations         | Hyderabad | 5         | 5      | 814000.0   | 4070000.0     |
+| Product Management | Bangalore | 5         | 5      | 992000.0   | 4960000.0     |
+| Human Resources    | Chennai   | 4         | 4      | 622500.0   | 2490000.0     |
++--------------------+-----------+-----------+--------+------------+---------------+
+
+========================================================================
+  2. ATTENDANCE STATUS DISTRIBUTION (All Time)
+========================================================================
++----------+---------+------------+
+| Status   | Records | % of Total |
++----------+---------+------------+
+| Present  | 1843    | 84.74      |
+| Late     | 163     | 7.49       |
+| Absent   | 99      | 4.55       |
+| Half-Day | 70      | 3.22       |
++----------+---------+------------+
+
+========================================================================
+  3. MONTHLY ATTENDANCE SUMMARY — January 2024
+========================================================================
++-------+---------------------+-----------------+---------+------+--------+----------+-------+--------+
+| EmpID | Name                | Dept            | Present | Late | Absent | Half-Day | Hours | OT Hrs |
++-------+---------------------+-----------------+---------+------+--------+----------+-------+--------+
+| 1006  | Deepa Shetty        | Engineering     | 22      | 1    | 0      | 0        | 206.0 | 0.0    |
+| 1012  | Rahul Joshi         | Finance         | 22      | 0    | 0      | 1        | 205.0 | 3.0    |
+| 1013  | Divya Patel         | Finance         | 22      | 0    | 1      | 0        | 198.0 | 0.0    |
+| 1004  | Sneha Iyer          | Engineering     | 21      | 0    | 1      | 1        | 193.0 | 0.0    |
+| 1008  | Anita Pillai        | Engineering     | 21      | 1    | 1      | 0        | 197.0 | 0.0    |
+| 1011  | Lakshmi Menon       | Human Resources | 21      | 1    | 0      | 1        | 201.0 | 0.0    |
+| 1017  | Swathi Nambiar      | Marketing       | 21      | 1    | 1      | 0        | 197.0 | 0.0    |
+| 1018  | Ravi Tiwari         | Sales           | 21      | 0    | 1      | 1        | 193.0 | 0.0    |
+| 1001  | Arjun Verma         | Engineering     | 20      | 2    | 1      | 0        | 202.0 | 6.0    |
+| 1003  | Rohan Mehta         | Engineering     | 20      | 1    | 1      | 1        | 192.0 | 0.0    |
+| 1009  | Meena Sharma        | Human Resources | 20      | 0    | 3      | 0        | 180.0 | 0.0    |
+| 1014  | Nikhil Shah         | Finance         | 20      | 2    | 0      | 1        | 203.0 | 3.0    |
+| 1016  | Arun Krishnan       | Marketing       | 20      | 1    | 1      | 1        | 195.0 | 3.0    |
+| 1019  | Kavitha Subramaniam | Sales           | 20      | 1    | 1      | 1        | 195.0 | 3.0    |
+| 1025  | Rekha Chandra       | Operations      | 20      | 1    | 2      | 0        | 188.0 | 0.0    |
+| 1005  | Kiran Raj           | Engineering     | 19      | 2    | 0      | 2        | 201.0 | 6.0    |
+| 1022  | Tarun Bose          | Sales           | 19      | 2    | 2      | 0        | 187.0 | 0.0    |
+| 1023  | Asha Gupta          | Operations      | 19      | 1    | 2      | 1        | 183.0 | 0.0    |
+| 1002  | Priya Nair          | Engineering     | 18      | 5    | 0      | 0        | 205.0 | 3.0    |
+| 1007  | Vijay Kumar         | Engineering     | 18      | 3    | 1      | 1        | 193.0 | 3.0    |
+| 1021  | Usha Narayanan      | Sales           | 18      | 2    | 1      | 2        | 192.0 | 6.0    |
+| 1010  | Suresh Babu         | Human Resources | 17      | 4    | 0      | 2        | 193.0 | 0.0    |
+| 1015  | Pooja Reddy         | Marketing       | 17      | 3    | 2      | 1        | 181.0 | 0.0    |
+| 1020  | Ganesh Pillai       | Sales           | 16      | 6    | 1      | 0        | 192.0 | 0.0    |
+| 1024  | Manoj Das           | Operations      | 13      | 6    | 2      | 2        | 173.0 | 0.0    |
++-------+---------------------+-----------------+---------+------+--------+----------+-------+--------+
+
+========================================================================
+  4. LATE ARRIVALS REPORT (2+ Late Days)
+========================================================================
++---------------------+-----------------+-----------+
+| Employee            | Department      | Late Days |
++---------------------+-----------------+-----------+
+| Ganesh Pillai       | Sales           | 16        |
+| Manoj Das           | Operations      | 11        |
+| Priya Nair          | Engineering     | 10        |
+| Suresh Babu         | Human Resources | 10        |
+| Arjun Verma         | Engineering     | 9         |
+| Pooja Reddy         | Marketing       | 9         |
+| Arun Krishnan       | Marketing       | 9         |
+| Rahul Joshi         | Finance         | 8         |
+| Nikhil Shah         | Finance         | 8         |
+| Kavitha Subramaniam | Sales           | 8         |
+| Asha Gupta          | Operations      | 8         |
+| Tarun Bose          | Sales           | 7         |
+| Vijay Kumar         | Engineering     | 6         |
+| Sneha Iyer          | Engineering     | 5         |
+| Meena Sharma        | Human Resources | 5         |
+| Usha Narayanan      | Sales           | 5         |
+| Rohan Mehta         | Engineering     | 4         |
+| Anita Pillai        | Engineering     | 4         |
+| Lakshmi Menon       | Human Resources | 4         |
+| Divya Patel         | Finance         | 4         |
+| Kiran Raj           | Engineering     | 3         |
+| Deepa Shetty        | Engineering     | 3         |
+| Swathi Nambiar      | Marketing       | 3         |
+| Ravi Tiwari         | Sales           | 3         |
++---------------------+-----------------+-----------+
+
+========================================================================
+  5. TOP OVERTIME EMPLOYEES
+========================================================================
++----------------+-------------+----------------+
+| Employee       | Department  | Total OT Hours |
++----------------+-------------+----------------+
+| Vijay Kumar    | Engineering | 12.0           |
+| Usha Narayanan | Sales       | 12.0           |
+| Arjun Verma    | Engineering | 9.0            |
+| Anita Pillai   | Engineering | 9.0            |
+| Arun Krishnan  | Marketing   | 9.0            |
+| Asha Gupta     | Operations  | 9.0            |
+| Priya Nair     | Engineering | 6.0            |
+| Kiran Raj      | Engineering | 6.0            |
++----------------+-------------+----------------+
+
+========================================================================
+  6. SALARY OVERVIEW — Top 12 Earners
+========================================================================
++------+--------------------+--------------------+--------------------------+-----------+-----------+-----------+--------+
+| ID   | Name               | Dept               | Role                     | Salary    | Band Min  | Band Max  | Band % |
++------+--------------------+--------------------+--------------------------+-----------+-----------+-----------+--------+
+| 1007 | Vijay Kumar        | Engineering        | Tech Lead                | 1700000.0 | 1200000.0 | 1800000.0 | 83.3   |
+| 1003 | Rohan Mehta        | Engineering        | Tech Lead                | 1600000.0 | 1200000.0 | 1800000.0 | 66.7   |
+| 1026 | Siddharth Malhotra | Product Management | Product Manager          | 1400000.0 | 900000.0  | 1500000.0 | 83.3   |
+| 1040 | Qureshi Amir       | Finance            | Finance Manager          | 1350000.0 | 900000.0  | 1400000.0 | 90.0   |
+| 1012 | Rahul Joshi        | Finance            | Finance Manager          | 1300000.0 | 900000.0  | 1400000.0 | 80.0   |
+| 1049 | Zara Hussain       | Product Management | Product Manager          | 1300000.0 | 900000.0  | 1500000.0 | 66.7   |
+| 1023 | Asha Gupta         | Operations         | Operations Manager       | 1200000.0 | 800000.0  | 1300000.0 | 80.0   |
+| 1033 | Farah Sheikh       | Engineering        | Senior Software Engineer | 1200000.0 | 800000.0  | 1400000.0 | 66.7   |
+| 1044 | Umesh Naik         | Engineering        | Senior Software Engineer | 1150000.0 | 800000.0  | 1400000.0 | 58.3   |
+| 1001 | Arjun Verma        | Engineering        | Senior Software Engineer | 1100000.0 | 800000.0  | 1400000.0 | 50.0   |
+| 1015 | Pooja Reddy        | Marketing          | Marketing Manager        | 1100000.0 | 800000.0  | 1300000.0 | 60.0   |
+| 1018 | Ravi Tiwari        | Sales              | Sales Manager            | 1100000.0 | 750000.0  | 1200000.0 | 77.8   |
++------+--------------------+--------------------+--------------------------+-----------+-----------+-----------+--------+
+
+========================================================================
+  7. LEAVE REQUESTS LOG
+========================================================================
++----+--------------+-----------+------------+------------+------+----------+-----------------+
+| ID | Employee     | Type      | From       | To         | Days | Status   | Reason          |
++----+--------------+-----------+------------+------------+------+----------+-----------------+
+| 1  | Arjun Verma  | Casual    | 2024-02-26 | 2024-02-27 | 2    | Approved | Family function |
+| 2  | Priya Nair   | Sick      | 2024-01-09 | 2024-01-09 | 1    | Approved | Fever           |
+| 3  | Rohan Mehta  | Earned    | 2024-03-20 | 2024-03-22 | 3    | Approved | Vacation        |
+| 4  | Deepa Shetty | Earned    | 2024-04-16 | 2024-04-17 | 2    | Approved | Annual trip     |
+| 5  | Sneha Iyer   | Sick      | 2024-03-12 | 2024-03-12 | 1    | Approved | Cold and cough  |
+| 6  | Kiran Raj    | Casual    | 2024-04-10 | 2024-04-11 | 2    | Pending  | Personal        |
+| 7  | Anita Pillai | Sick      | 2024-04-15 | 2024-04-15 | 1    | Approved | Migraine        |
+| 8  | Pooja Reddy  | Earned    | 2024-05-05 | 2024-05-10 | 6    | Approved | Annual leave    |
+| 9  | Tarun Bose   | Casual    | 2024-04-22 | 2024-04-22 | 1    | Rejected | Personal work   |
+| 10 | Suresh Babu  | Maternity | 2024-05-01 | 2024-06-30 | 60   | Pending  | Maternity leave |
++----+--------------+-----------+------------+------------+------+----------+-----------------+
+
+========================================================================
+  8. SALARY HISTORY & INCREMENT TRACKER
+========================================================================
++--------------------+--------------------+------------+------------+-----------+---------+--------------------------------+------------+
+| Employee           | Dept               | Old Salary | New Salary | Increment | % Raise | Reason                         | Date       |
++--------------------+--------------------+------------+------------+-----------+---------+--------------------------------+------------+
+| Arjun Verma        | Engineering        | 950000.0   | 1100000.0  | 150000.0  | 15.8    | Annual appraisal 2024          | 2024-01-01 |
+| Pooja Reddy        | Marketing          | 950000.0   | 1100000.0  | 150000.0  | 15.8    | Promotion to Marketing Manager | 2023-10-01 |
+| Priya Nair         | Engineering        | 480000.0   | 550000.0   | 70000.0   | 14.6    | Annual appraisal 2024          | 2024-01-01 |
+| Rohan Mehta        | Engineering        | 1500000.0  | 1700000.0  | 200000.0  | 13.3    | Promotion to Tech Lead         | 2023-07-01 |
+| Ravi Tiwari        | Sales              | 1000000.0  | 1100000.0  | 100000.0  | 10.0    | Annual appraisal 2024          | 2024-01-01 |
+| Rahul Joshi        | Finance            | 1200000.0  | 1300000.0  | 100000.0  | 8.3     | Annual appraisal 2024          | 2024-01-01 |
+| Siddharth Malhotra | Product Management | 1300000.0  | 1400000.0  | 100000.0  | 7.7     | Annual appraisal 2024          | 2024-01-01 |
+| Deepa Shetty       | Engineering        | 1000000.0  | 1050000.0  | 50000.0   | 5.0     | Performance increment          | 2024-01-01 |
++--------------------+--------------------+------------+------------+-----------+---------+--------------------------------+------------+
+
+========================================================================
+  9. GENDER DIVERSITY BY DEPARTMENT
+========================================================================
++--------------------+------+--------+-------+----------+
+| Department         | Male | Female | Total | Female % |
++--------------------+------+--------+-------+----------+
+| Marketing          | 1    | 4      | 5     | 80.0     |
+| Human Resources    | 1    | 3      | 4     | 75.0     |
+| Customer Support   | 2    | 4      | 6     | 66.7     |
+| Operations         | 2    | 3      | 5     | 60.0     |
+| Engineering        | 7    | 6      | 13    | 46.2     |
+| Product Management | 3    | 2      | 5     | 40.0     |
+| Sales              | 4    | 2      | 6     | 33.3     |
+| Finance            | 4    | 1      | 5     | 20.0     |
++--------------------+------+--------+-------+----------+
+
+========================================================================
+  10. EMPLOYMENT TYPE BREAKDOWN
+========================================================================
++-----------------+-------+------------+
+| Employment Type | Count | Avg Salary |
++-----------------+-------+------------+
+| Full-Time       | 45    | 827111.0   |
+| Intern          | 2     | 437500.0   |
+| Part-Time       | 1     | 420000.0   |
+| Contract        | 1     | 400000.0   |
++-----------------+-------+------------+
+
+========================================================================
+  END OF REPORT
+========================================================================
